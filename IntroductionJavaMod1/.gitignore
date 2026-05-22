@@ -1,0 +1,13 @@
+# Java / Maven
+target/
+**/target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+**/.idea/
+*.iml
+out/
+
+# Logs
+*.log
